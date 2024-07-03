@@ -1,0 +1,9 @@
+[submodule "hades2-savefile-editor"]
+	path = hades2-savefile-editor
+	url = ssh://aur@aur.archlinux.org/hades2-savefile-editor.git
+[submodule "atlas-celeste"]
+	path = atlas-celeste
+	url = ssh://aur@aur.archlinux.org/atlas-celeste.git
+[submodule "atlas-celeste-git"]
+	path = atlas-celeste-git
+	url = ssh://aur@aur.archlinux.org/atlas-celeste-git.git
